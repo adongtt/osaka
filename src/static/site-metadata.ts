@@ -13,7 +13,7 @@ interface ISiteMetadataResult {
 const data: ISiteMetadataResult = {
   siteTitle: "曾第一's Running Page",
   siteUrl: 'https://adongtt.github.io/oaska',
-  logo: 'https://uk.weika.live/oaska.jpg',
+  logo: 'https://uk.weika.live/osaka.jpg',
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
